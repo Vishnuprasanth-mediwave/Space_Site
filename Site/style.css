@@ -9,10 +9,19 @@ button{
     padding: 6px 12px;
     background: white;
     border: none;
+    width: 100px;
+    font-size: medium;
+    font-weight: bold;
+    color: #82a5ca;
 }
 .underline{
     border-bottom: 4px solid white;
 }
 .logo{
     width: 200px;
+}
+.hero{
+    margin: 50px 0;
+    color: #82a5ca;
+   
 }
