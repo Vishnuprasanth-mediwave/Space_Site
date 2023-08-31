@@ -1,0 +1,18 @@
+body{
+    color: white;
+    background-image:url(premium_photo-1677916317230-d9b78d675264.avif) ;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+button{
+    padding: 6px 12px;
+    background: white;
+    border: none;
+}
+.underline{
+    border-bottom: 4px solid white;
+}
+.logo{
+    width: 200px;
+}
